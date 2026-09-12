@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Konstantinos Afentoulis
 
-<!--
-**AfentoulisKonstantinos/AfentoulisKonstantinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Energy markets and optimisation specialist working on real-time power-system
+balancing, BESS optimisation and distributed flexibility.
 
-Here are some ideas to get you started:
+Currently Senior Algorithms Operations Scientist at NESO, developing
+optimisation algorithms for the GB electricity system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Battery energy storage optimisation
+- GB wholesale & Balancing Mechanism
+- Flexible asset dispatch
+- EV aggregation and smart charging
+- Mathematical optimisation and forecasting
+
+## Tech
+Python · Julia · SQL · JuMP · Gurobi · HiGHS · Power BI · Git
+
+## Selected Projects
+### BESS Market Optimisation
+Multi-market battery optimisation model for energy arbitrage and revenue stacking.
+
+### EV Flexibility Aggregation
+Optimisation and forecasting methods for aggregated EV participation in electricity markets.
+
+### GB Market Analytics
+Analytics and modelling tools for understanding balancing and flexibility value.
